@@ -1,0 +1,44 @@
+[
+  {
+    "id": 243,
+    "name": "Rice",
+    "centsPerUnit": 20,
+    "category": "grains"
+  },
+  {
+    "id": 153,
+    "name": "Wheat",
+    "centsPerUnit": 540,
+    "category": "grains"
+  },
+  {
+    "id": 234,
+    "name": "Corn",
+    "centsPerUnit": 400,
+    "category": "vegetables"
+  },
+  {
+    "id": 634,
+    "name": "Celery",
+    "centsPerUnit": 240,
+    "category": "vegetables"
+  },
+  {
+    "id": 634,
+    "name": "Spinach",
+    "centsPerUnit": 260,
+    "category": "vegetables"
+  },
+  {
+    "id": 145,
+    "name": "Pineapple",
+    "centsPerUnit": 400,
+    "category": "fruits"
+  },
+  {
+    "id": 145,
+    "name": "Pears",
+    "centsPerUnit": 140,
+    "category": "fruits"
+  }
+]
